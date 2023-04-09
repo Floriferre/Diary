@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Coding
+title: Coding Review
 tags: [Katex, Mermaid, Markdown]
 categories: Demo
+published: true
 ---
 
 아니 이게 왜 안 되는 걸까? 
