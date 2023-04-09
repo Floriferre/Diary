@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: ""
-url: "https://floriferre.github.io/Diary/"
+baseurl: "/Diary"
+url: "https://floriferre.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Type on Strap                                    # site's title
